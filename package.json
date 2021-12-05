@@ -1,0 +1,13 @@
+{
+  "name": "amzn-monitor",
+  "version": "1.0.0",
+  "main": "amzn.js",
+  "author": "Chris",
+  "license": "MIT",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "got": "^11.8.3",
+    "node-html-parser": "^5.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
